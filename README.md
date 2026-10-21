@@ -1,2 +1,2 @@
-# Segunda-Li-o---Figma-e-Vs-Code
+# Segunda-Ligin---Vs-Code
 Tela Inicial, design simples e prático
